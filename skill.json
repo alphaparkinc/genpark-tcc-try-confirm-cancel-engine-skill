@@ -1,0 +1,17 @@
+{
+  "name": "genpark-tcc-try-confirm-cancel-engine-skill",
+  "version": "1.0.0",
+  "description": "Try-Confirm-Cancel (TCC) two-phase business compensation engine managing asset reservations, confirmation commitments, and cancellation releases.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "tcc",
+    "try-confirm-cancel",
+    "business-transactions",
+    "distributed-transactions",
+    "idempotency"
+  ],
+  "dependencies": []
+}
